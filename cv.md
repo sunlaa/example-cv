@@ -4,9 +4,9 @@
 ---
 ## Contact information:
 🇵🇱**Location:** Poland, Warsaw.\
-📞**Phone:** +48 789 632 433\
-📫**E-mail:** santalova.lada25@gmail.com\
-💠**Telegram:** @sunlaa
+📱**Phone:** +48 789 632 433\
+✉️**E-mail:** santalova.lada25@gmail.com\
+👋**Telegram:** @sunlaa
 
 ---
 ## Brief information about me
@@ -50,5 +50,23 @@ function spinAround(turns) {
   return Math.floor(sum/4)
 }
 ```
+---
+## Training received
+- Taking micro-courses on the **Stepik** educational platform
+![Comlited courses](<img width="525" alt="image" src="https://github.com/sunlaa/example-cv/assets/119731695/d61f390e-5e39-4a3c-bea3-02d01470dc59">)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
