@@ -23,17 +23,17 @@ I am 20 years old and by now I have been studying web technologies for about 1.5
 
 ---
 ## Code example
-*[Task](https://www.codewars.com/kata/65127141a5de2b1dcb40927e)*\
+*[Task](https://www.codewars.com/kata/65127141a5de2b1dcb40927e)*
 
 **Description:** we are given an array of a random number of "left" and "right" strings. Each such element rotates something to the right or back to the left by 90 degrees. Our task is to calculate the number of full rotations of 360 degrees.
-*As here:*\
+*As here:*
 ```
 ["left", "right", "left", "right"] ➞ 0
 ["right", "right", "right", "right", "right", "right", "right", "right"] ➞ 2
 ```
 **My solution:**
-```
-<span style="color: blue;">function</span> spinAround(turns) {
+```javascript
+function spinAround(turns) {
   let a = 0
   let b = 0
   let sum = 0
