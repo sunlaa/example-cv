@@ -64,7 +64,7 @@ function spinAround(turns) {
 - **Russian**
 - **Belarusian**
 - ### English
-  - [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments): B1(Intermediate)\
+  - [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments): **B1(Intermediate)**\
   At the moment I live in Poland and because I don't know Polish, I occasionally use English to communicate. I am learning English now through lessons, videos and self-talk with recordings.
 
 
