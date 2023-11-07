@@ -1,2 +1,2 @@
 # example-cv
-https://sunlaa.github.io/rsschool-cv/cv
+https://sunlaa.github.io/example-cv/cv
