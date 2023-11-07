@@ -54,12 +54,18 @@ function spinAround(turns) {
 ## Training received
 - Taking micro-courses on the **Stepik** educational platform
 ![courses](./pics/courses.png)
-- Learning JavaScript from Ilya Kantor's tutorial **["The Modern JavaScript Tutorial"](https://learn.javascript.ru/)**
+- Learning JavaScript from Ilya Kantor's tutorial **["The Modern JavaScript Tutorial"](https://learn.javascript.ru/)**\
 *[Detailed textbook summary](https://www.notion.so/JavaScript-de40ed91d56a45e7b4ecc50209a994bb?pvs=4)*
+
 - Learning the basics of React through **[the official documentation](https://react.dev/learn)**
 
-
-
+---
+## Language
+- **Russian**
+- **Belarusian**
+- ### English
+  - [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments): B1(Intermediate)
+  At the moment I live in Poland and because I don't know Polish, I occasionally use English to communicate. I am learning English now through lessons, videos and self-talk with recordings.
 
 
 
