@@ -33,7 +33,7 @@ I am 20 years old and by now I have been studying web technologies for about 1.5
 ```
 **My solution:**
 ```
-function spinAround(turns) {
+<span style="color: blue;">function</span> spinAround(turns) {
   let a = 0
   let b = 0
   let sum = 0
