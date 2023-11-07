@@ -25,7 +25,7 @@ I am 20 years old and by now I have been studying web technologies for about 1.5
 ## Code example
 *[Task](https://www.codewars.com/kata/65127141a5de2b1dcb40927e)*
 
-**Description:** we are given an array of a random number of "left" and "right" strings. Each such element rotates something to the right or back to the left by 90 degrees. Our task is to calculate the number of full rotations of 360 degrees.
+**Description:** we are given an array of a random number of "left" and "right" strings. Each such element rotates something to the right or back to the left by 90 degrees. Our task is to calculate the number of full rotations of 360 degrees.\
 *As here:*
 ```
 ["left", "right", "left", "right"] ➞ 0
@@ -64,7 +64,7 @@ function spinAround(turns) {
 - **Russian**
 - **Belarusian**
 - ### English
-  - [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments): B1(Intermediate)
+  - [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments): B1(Intermediate)\
   At the moment I live in Poland and because I don't know Polish, I occasionally use English to communicate. I am learning English now through lessons, videos and self-talk with recordings.
 
 
