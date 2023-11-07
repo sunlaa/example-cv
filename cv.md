@@ -53,6 +53,7 @@ function spinAround(turns) {
 ---
 ## Training received
 - Taking micro-courses on the **Stepik** educational platform
+![courses](./pics/courses.png)
 
 
 
