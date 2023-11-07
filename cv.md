@@ -7,6 +7,7 @@
 📱**Phone:** +48 789 632 433\
 ✉️**E-mail:** santalova.lada25@gmail.com\
 👋**Telegram:** @sunlaa
+🔮**Discord:** @sunlaa
 
 ---
 ## Brief information about me
@@ -58,6 +59,11 @@ function spinAround(turns) {
 *[Detailed textbook summary](https://www.notion.so/JavaScript-de40ed91d56a45e7b4ecc50209a994bb?pvs=4)*
 
 - Learning the basics of React through **[the official documentation](https://react.dev/learn)**
+
+---
+## My little first project
+I created this project to practice layout, CSS and HTML. It has a couple of hyperlinks and a button to go to another page. It also has some sort of adaptive layout, but since it was my first attempt, it doesn't look the way I would like it to on all devices.
+**[You can see it here](link to learn-site)**
 
 ---
 ## Language
